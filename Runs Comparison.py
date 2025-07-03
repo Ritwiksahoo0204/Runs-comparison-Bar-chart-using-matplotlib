@@ -1,4 +1,3 @@
-#1. Create a side-by-side bar chart comparing runs of Sachin, Kohli, and Sehwag over 5 selected years.
 import matplotlib.pyplot as plt
 import numpy as np
 import random
